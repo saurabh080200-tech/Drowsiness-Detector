@@ -1,0 +1,10 @@
+numpy
+pandas
+cv2
+tensorflow
+PIL
+os
+pygame
+time
+sklearn
+matplotlib
